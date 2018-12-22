@@ -51,7 +51,7 @@
       "settings": {
         "main": true,
         "title": "Selamat Datang",
-        "meta_descr": "haza pulsa murah",
+        "meta_descr": "Isi Pulsa Mudah dan Cepat",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -1034,7 +1034,7 @@
     },
     "page2.html": {
       "settings": {
-        "meta_descr": "Pulsa elektrik",
+        "meta_descr": "Tidak Ribet",
         "title": "Transaksi Mudah dan Cepat",
         "order": 8
       },
@@ -1463,7 +1463,7 @@
     },
     "page3.html": {
       "settings": {
-        "meta_descr": "joss",
+        "meta_descr": "Mantab",
         "title": "Pulsa Kulon Progo",
         "order": 6
       },
@@ -2827,7 +2827,7 @@
     },
     "page6.html": {
       "settings": {
-        "meta_descr": "Web Page Maker Description",
+        "meta_descr": "Selamat Datang",
         "title": "LOKASI",
         "order": 4
       },
@@ -3331,7 +3331,7 @@
     },
     "page7.html": {
       "settings": {
-        "meta_descr": "Web Site Builder Description",
+        "meta_descr": "Silahkan Transfer",
         "title": "Deposit ",
         "order": 3
       },
@@ -3781,7 +3781,7 @@
     },
     "page8.html": {
       "settings": {
-        "meta_descr": "Web Page Generator Description",
+        "meta_descr": "Perjalanan",
         "title": "Galery Foto",
         "order": 2
       },
@@ -4589,7 +4589,7 @@
     },
     "page9.html": {
       "settings": {
-        "meta_descr": "Service laptop",
+        "meta_descr": "Perbaikan Laptop ",
         "title": "Pusat Perbaikan Laptop Yogyakarta",
         "order": 1
       },
